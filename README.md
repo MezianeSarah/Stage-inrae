@@ -27,9 +27,9 @@ et **comparer les résultats avec des images réelles** pour valider les comport
 ##  Outils et bibliothèques
 
 - Python (NumPy, Matplotlib)
-- Voronoi via Scipy ou CGAL
-- Traitement d’image : OpenCV, Scikit-image
-- Méthode péridynamique avec intégration explicite (Velocity-Verlet)
+- Voronoi 
+- Traitement d’image 
+- Méthode péridynamique 
 
 ##  En cours
 
